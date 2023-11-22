@@ -19,14 +19,14 @@ Este proyecto proporciona una solución sencilla para obtener la tasa de cambio 
    cd obtener-tasa-bcv
 Instala las dependencias:
 
-bash
-Copy code
-npm install
+   ```bash
+   npm install
+
 Ejecuta la aplicación:
 
-bash
-Copy code
-node index.js
+   ```bash
+   node index.js
+
 La aplicación se ejecutará en http://localhost:3000/bcv y devolverá la tasa de cambio del Dólar en formato JSON.
 
 Contribuciones
