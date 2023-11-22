@@ -25,11 +25,11 @@ Este proyecto proporciona una solución sencilla para obtener la tasa de cambio 
   
 La aplicación se ejecutará en http://localhost:3000/bcv y devolverá la tasa de cambio del Dólar en formato JSON.
 
-**Contribuciones**
+## Contribuciones
 ¡Contribuciones son bienvenidas! Si encuentras algún problema o tienes mejoras que sugerir, por favor abre un issue o envía un pull request.
 
-**Agradecimientos**
+## Agradecimientos
 Agradecemos al Banco Central de Venezuela por proporcionar la información económica.
 
-**Licencia**
+## Licencia
 Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
